@@ -1,2 +1,2 @@
-# Intro-to-Matplotlib
+# Matplotlib
 Understanding Matplotlib fundamentals
